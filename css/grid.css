@@ -24,7 +24,8 @@ footer {
 @media screen and (max-width: 768px) {
 
 	.container {
-		width: 80%;
+		width: 75%;
+		padding-top: 25%;
 	}
 
 }
@@ -32,7 +33,7 @@ footer {
 @media screen and (max-width: 425px) {
 
 	.container {
-		width: 90%;
+		width: 80%;
 		padding-top: 50%;
 	}
 
